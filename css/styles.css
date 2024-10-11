@@ -303,7 +303,7 @@ a {
 
   flex-basis: calc((100 - 3 * 24px) / 4);
 
-  margin-bottom: 8px;
+
 }
 
 .main-team-item {
@@ -314,7 +314,7 @@ a {
   justify-content: center;
   flex-direction: column;
   border-radius: 0px 0px 4px 4px;
-  b
+
 }
 
 .main-team-text {
@@ -370,7 +370,7 @@ a {
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
   border-top: none;
-  margin-bottom: 8px;
+
 }
 
 
@@ -381,6 +381,7 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .main-portfolio-text {
