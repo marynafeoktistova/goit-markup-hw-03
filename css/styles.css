@@ -322,7 +322,6 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
 
@@ -350,6 +349,7 @@ a {
   flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
+  margin-bottom: 8px;
 
 }
 
