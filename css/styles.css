@@ -314,6 +314,7 @@ a {
   justify-content: center;
   flex-direction: column;
   border-radius: 0px 0px 4px 4px;
+  margin-bottom: 8px;
 
 }
 
@@ -405,8 +406,7 @@ a {
 
   .post-footer {
     background-color: #2e2f42;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding: 100px 0 100px;
   }
 
   .post-footer-text {
