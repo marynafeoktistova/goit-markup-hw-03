@@ -22,7 +22,7 @@ h6 {
 
 .container {
   width: 1158px;
-  padding: 10 15px 0 15px;
+  padding: 0 15px 0 15px;
 
   margin: 0 auto;
 }
@@ -154,8 +154,7 @@ a {
 
 .main-title {
   background: #2e2f42;
-  padding-top: 188px;
-  padding-bottom: 292px;
+  padding: 188px 0 188px;
   display: flex;
   line-height: 1.07143;
   letter-spacing: 0.02em;
@@ -193,6 +192,10 @@ a {
   background: #4d5ae5;
   border-radius: 4px;
   padding: 16px 32px;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 
 }
 
@@ -234,9 +237,9 @@ a {
 }
 
 .conteiner-main-name {
-  max-width: 496px;
-
+  margin-bottom: 8px;
 }
+
 
 .main-text {
   font-weight: 400;
