@@ -46,7 +46,7 @@ a {
 }
 
 .img {
-  display: block;
+
   max-width: 100%;
   height: auto;
 }
@@ -300,7 +300,7 @@ a {
   gap: 24px;
   text-align: center;
   flex-basis: calc((100 - 3 * 24px) / 4);
-
+  margin-bottom: 8px;
 }
 
 .main-team-name {
